@@ -110,6 +110,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   display: table;
   width: 100%;
   height: 100vh;
+
 }
 
 #intro .carousel-item {
@@ -785,6 +786,31 @@ section {
 .services .icon-box-blue:hover {
   border-color: #2282ff;
 }
+*--------------------------------------------------------------
+# C O
+--------------------------------------------------------------*/
+.why-us1 .container {
+  box-shadow: 0 5px 25px 0 rgba(214, 215, 216, 0.6);
+  background: #fff;
+}
+
+.why-us1 .icon-box + .icon-box {
+  margin-top: 50px;
+}
+
+.why-us1 .icon-box .icon {
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 72px;
+  background: #f3f8fa;
+  border-radius: 6px;
+  transition: 0.5s;
+}
+
+
 
 /*--------------------------------------------------------------
 # Why Us
