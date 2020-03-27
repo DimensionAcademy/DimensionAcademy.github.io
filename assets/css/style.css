@@ -2416,11 +2416,11 @@ section {
   text-decoration: underline;
 }
 
-.values .card:hover .card-body {
+/*.values .card:hover .card-body {
   background: rgba(157, 159, 171, 1);;
 }
 
 .values .card:hover .read-more a, .values .card:hover .card-title, .values .card:hover .card-title a, .values .card:hover .card-text {
   color: #fff;
-}
+}*/
 
